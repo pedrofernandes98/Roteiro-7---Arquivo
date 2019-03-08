@@ -1,0 +1,5 @@
+Nome: Pedro , Endereço: a , 
+Nome: paulo , Endereço: b , 
+Nome: deas , Endereço: c , 
+Nome: karol , Endereço: d , 
+Nome: drica , Endereço: e , 
